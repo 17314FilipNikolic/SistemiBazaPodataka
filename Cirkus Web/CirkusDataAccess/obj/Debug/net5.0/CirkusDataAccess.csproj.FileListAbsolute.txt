@@ -1,0 +1,12 @@
+C:\Users\korisnik\Desktop\Baze WebApp\Cirkus Web\CirkusDataAccess\bin\Debug\net5.0\CirkusDataAccess.deps.json
+C:\Users\korisnik\Desktop\Baze WebApp\Cirkus Web\CirkusDataAccess\bin\Debug\net5.0\CirkusDataAccess.dll
+C:\Users\korisnik\Desktop\Baze WebApp\Cirkus Web\CirkusDataAccess\bin\Debug\net5.0\ref\CirkusDataAccess.dll
+C:\Users\korisnik\Desktop\Baze WebApp\Cirkus Web\CirkusDataAccess\bin\Debug\net5.0\CirkusDataAccess.pdb
+C:\Users\korisnik\Desktop\Baze WebApp\Cirkus Web\CirkusDataAccess\obj\Debug\net5.0\CirkusDataAccess.csprojAssemblyReference.cache
+C:\Users\korisnik\Desktop\Baze WebApp\Cirkus Web\CirkusDataAccess\obj\Debug\net5.0\CirkusDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korisnik\Desktop\Baze WebApp\Cirkus Web\CirkusDataAccess\obj\Debug\net5.0\CirkusDataAccess.AssemblyInfoInputs.cache
+C:\Users\korisnik\Desktop\Baze WebApp\Cirkus Web\CirkusDataAccess\obj\Debug\net5.0\CirkusDataAccess.AssemblyInfo.cs
+C:\Users\korisnik\Desktop\Baze WebApp\Cirkus Web\CirkusDataAccess\obj\Debug\net5.0\CirkusDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\Desktop\Baze WebApp\Cirkus Web\CirkusDataAccess\obj\Debug\net5.0\CirkusDataAccess.dll
+C:\Users\korisnik\Desktop\Baze WebApp\Cirkus Web\CirkusDataAccess\obj\Debug\net5.0\ref\CirkusDataAccess.dll
+C:\Users\korisnik\Desktop\Baze WebApp\Cirkus Web\CirkusDataAccess\obj\Debug\net5.0\CirkusDataAccess.pdb
